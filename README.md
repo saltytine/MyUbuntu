@@ -31,7 +31,7 @@ Now, go to the keyboard tab and navigate to keyboard shortcuts
 Lauching the web browser should be set to `Super + f`  
 Move window one workspace to the left should be `KP /` and to the right should be `KP *`  
 Move window one monitor to the left/right should be `Super + Shift + Left` and `Super + Shift + Right`  
-Switching to workspaces 1, 2, 3, and 4 should be `KP 1`, `KP 2`, `KP 3`, and `KP 4` respectively  
+Switching to workspaces 1, 2, 3, and 4 should be `KP 1`, `KP 2`, `KP 3`, and `KP 0` respectively  
 Volume down should be set to `KP 7` and volume up to `KP 9`  
 I have restore keyboard shortcuts disabled for fear of losing them  
 The shortcut to hide a window should be `Super + ,` and maximizing a window should be disabled (but toggle maximization state should be `Super + m`)  
