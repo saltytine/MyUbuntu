@@ -43,5 +43,5 @@ add the gnome extensions and settings, then:
 just run the script on a fresh Ubuntu install, watch it do its thing
 
 ```bash
-bash setup.sh
+bash ubuntu.sh
 ```
