@@ -9,11 +9,11 @@ this script nukes a fresh ubuntu box into my custom setup
 * clones and installs pop-shell from pop-os for a better gnome shell experience
 * installs neovim via snap (latest stable)
 * installs kitty terminal from official installer
-* clones your dotfiles configs for nvim, ranger, btop, kitty
-* clones and overwrites your `.bashrc`
-* clones and sets up your `.tmux.conf`
+* clones my dotfiles configs for nvim, ranger, btop, kitty
+* clones and overwrites my `.bashrc`
+* clones and sets up my `.tmux.conf`
 * sets kew music directory to `~/Music` via `kew path` command  
-* creates `~/Coding` dir and clones your scripts repo into `~/Coding/scripts`  
+* creates `~/Coding` dir and clones my scripts repo into `~/Coding/scripts`  
 * makes every `.sh` in scripts executable  
 
 ## gnome extensions
